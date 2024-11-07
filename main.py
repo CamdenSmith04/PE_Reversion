@@ -12,9 +12,6 @@ steel = ["STLD", "NUE", "CLF", "X"]
 
 
 
-
-
-
 # Collective Stocks
 stocks = []
 
@@ -22,10 +19,6 @@ for i in range(len(steel)):
     stocks.append(steel[i])
 
 print(stocks)
-
-
-
-
 
 
 
