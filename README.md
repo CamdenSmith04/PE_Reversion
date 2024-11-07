@@ -1,6 +1,6 @@
 # PE_Reversion
 
 <!-- Teach -->
-Username and password file set up
-pip3 install --upgrade pip
-pip3 install robin_stocks
+1. Username and password file set up
+2. pip3 install --upgrade pip
+3. pip3 install robin_stocks
