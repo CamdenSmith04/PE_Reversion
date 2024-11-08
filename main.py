@@ -25,3 +25,5 @@ for i in range(len(steel)):
 def get_PE(stock):
     return r.get_fundamentals(stock, info="pe_ratio")
 
+
+print(r.stocks.get_stock_historicals("STLD",interval="day",span="year",bounds="regular",info="close_price"))
