@@ -9,3 +9,4 @@ Steps
 4. Run pip3 install yfinance in terminal to download the connection
 5. Run pip3 install matplotlib in terminal to enable visualization tools
 6. Run pip3 install jupyter in terminal to enable inline visualization
+

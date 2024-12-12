@@ -13,7 +13,6 @@ steel = ["STLD", "NUE", "CLF", "X"]
 materials = []
 
 # Collection of ETFs
-etfs_description = {"XLB" : "Materials Select Sector SPDR Fund", "SLX" : "VanEck Steel ETF"}
 etfs = ["XLB", "SLX"]
 
 # Collection of Stocks
